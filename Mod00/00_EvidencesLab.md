@@ -34,5 +34,5 @@ Once the screen shows the linked Azure Subscription ID at the top, change the nu
 ![](Evidences/Image7.png)
 
 
-### [<-- Back to readme](../../../Readme.md)
+### [<-- Back to readme](../../Readme.md)
 
