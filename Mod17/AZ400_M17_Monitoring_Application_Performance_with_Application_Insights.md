@@ -421,6 +421,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this exercise, you deployed a web app to Azure App Service by using Azure DevOps pipelines, generated traffic targeting the web app, and used Application Insights to review the web traffic, investigate application performance, track application usage, and configure alerting.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 17](17_EvidencesLab.md)

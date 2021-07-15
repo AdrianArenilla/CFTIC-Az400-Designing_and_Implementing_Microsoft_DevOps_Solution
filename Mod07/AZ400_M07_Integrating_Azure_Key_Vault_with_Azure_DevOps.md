@@ -251,6 +251,6 @@ In this lab, you integrated Azure Key Vault with an Azure DevOps pipeline by usi
 - configured pipeline to retrieve the password from the Azure Key vault and pass it on to subsequent tasks.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 07](07_EvidencesLab.md)

@@ -282,6 +282,6 @@ In this task, you will use the Azure portal to remove the Azure resources provis
 In this lab, you learned how to optimize management of feature flags in Azure DevOps by leveraging LaunchDarkly. 
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 12](12_EvidencesLab.md)

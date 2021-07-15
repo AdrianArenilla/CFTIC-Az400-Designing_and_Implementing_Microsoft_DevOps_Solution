@@ -277,6 +277,6 @@ In this lab, you learned how to work with Azure Artifacts by using the following
 - updated a NuGet package.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 09](09_EvidencesLab.md)

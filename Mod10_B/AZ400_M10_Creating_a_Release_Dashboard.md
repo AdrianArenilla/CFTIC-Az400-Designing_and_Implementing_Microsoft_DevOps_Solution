@@ -251,6 +251,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you learned how to create and configure release dashboard and how to use REST API to retrieve Azure DevOps release data.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 10B](10B_EvidencesLab.md)

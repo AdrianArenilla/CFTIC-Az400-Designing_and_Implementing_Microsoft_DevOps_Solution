@@ -218,6 +218,6 @@ In this task, you will add a build status badge to your GitHub repo.
 In this lab, you integrated a GitHub project with Azure DevOps by using the new Azure Pipelines integration from the Marketplace.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 06B](06B_EvidencesLab.md)

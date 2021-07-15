@@ -233,6 +233,6 @@ Sometimes you'll have a need to rename or delete a repo, which is just as easy.
 In this lab, you used the Azure DevOps portal to manage branches and repositories. 
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 04](04_EvidencesLab.md)

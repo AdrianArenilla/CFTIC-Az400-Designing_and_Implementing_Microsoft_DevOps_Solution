@@ -161,6 +161,6 @@ In this task, you will trigger a continuous integration build.
 In this lab, you used the Azure DevOps portal to create a basic build pipeline from a template, to track and review a build, and to invoke a continuous integration build.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 06A](06A_EvidencesLab.md)

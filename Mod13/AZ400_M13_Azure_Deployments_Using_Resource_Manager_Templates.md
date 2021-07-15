@@ -482,6 +482,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you learned how to create an Azure Resource manager template, modularize it by using a linked template, modify the main deployment template to call the linked template and updated dependencies, and finally deploy the templates to Azure.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 13](13_EvidencesLab.md)

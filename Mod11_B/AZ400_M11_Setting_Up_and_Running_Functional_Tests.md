@@ -228,6 +228,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you learned how to execute Selenium test cases on a C# web application, as part of the Azure DevOps Release pipeline.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 11B](11B_EvidencesLab.md)

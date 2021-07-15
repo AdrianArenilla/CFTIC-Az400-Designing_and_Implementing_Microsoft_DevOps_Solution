@@ -162,6 +162,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you implemented a GitHub Action workflow that deploys an Azure web app by using DevOps Starter.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 08](08_EvidencesLab.md)

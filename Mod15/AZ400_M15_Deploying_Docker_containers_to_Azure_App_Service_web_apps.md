@@ -273,6 +273,5 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you used an Azure DevOps CI/CD pipeline to build a custom Docker image, pushed it to Azure Container Registry, and deployed it as a container to Azure App Service by using Azure DevOps.
 
 
-### [<-- Back to readme](../README.md)
-
+### [<-- Back to readme](../../..)
 ### [<-- Back to Lab 15](15_EvidencesLab.md)

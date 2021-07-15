@@ -295,6 +295,6 @@ In this task, you will step through the process of sharing Azure DevOps wikis in
 In this lab, you implemented integration scenarios between Azure DevOps services and Microsoft Teams.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 18](18_EvidencesLab.md)

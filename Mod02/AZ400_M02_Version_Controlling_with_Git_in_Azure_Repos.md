@@ -284,6 +284,6 @@ Git keeps track of which branch you are working on and makes sure that, when you
 In this lab, you used Visual Studio Code to clone an existing repository, save work with commits, review history of changes, and work with branches.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 02](02_EvidencesLab.md)

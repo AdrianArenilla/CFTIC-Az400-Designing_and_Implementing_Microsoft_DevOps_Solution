@@ -482,6 +482,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you learned how to deploy, configure, and manage Azure resources by using Ansible. 
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 14A](14A_EvidencesLab.md)

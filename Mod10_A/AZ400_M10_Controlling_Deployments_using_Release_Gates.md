@@ -334,6 +334,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you configured release pipelines and then configured and tested release gates. 
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 10A](10A_EvidencesLab.md)

@@ -205,6 +205,6 @@ In this task, you will manage the newly created project wiki.
 In this lab, you created and configured Wiki in an Azure DevOps, including managing markdown content and creating a Mermaid diagram.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 03](03_EvidencesLab.md)

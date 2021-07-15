@@ -135,6 +135,6 @@ In this task, you will review the WhiteSource Bolt build report.
 In this lab, you will use **WhiteSource Bolt with Azure DevOps** to automatically detect vulnerable open source components, outdated libraries, and license compliance issues in your code.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 19](19_EvidencesLab.md)

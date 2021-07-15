@@ -272,6 +272,6 @@ In this task, you will configure the LOD VM as an Azure DevOps self-hosting agen
 In this lab, you learned how to convert classic pipelines into YAML-based ones and how to implement and use self-hosted agents.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 05](05_EvidencesLab.md)

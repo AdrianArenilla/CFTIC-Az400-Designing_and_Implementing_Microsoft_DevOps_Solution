@@ -302,6 +302,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you learned how to use Azure DevOps to deploy a containerized ASP.NET Core web application **MyHealthClinic** (MHC) to an AKS cluster. 
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 16](16_EvidencesLab.md)

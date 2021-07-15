@@ -201,6 +201,6 @@ In this task, you will use Azure Cloud Shell to remove the Azure resources provi
 In this lab, you learned how to automate repeatable deployments with Terraform on Azure using Azure Pipelines.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../../..)
 
 ### [<-- Back to Lab 14B](14B_EvidencesLab.md)
