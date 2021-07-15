@@ -27,6 +27,6 @@ lab:
 16. OPTIONAL: you can validate this new setting has been successfully applied by creating and triggering a build pipeline. To do this either talk to the instructor or create a demo project into the newly created organization with billing enabled, using https://azuredevopsdemogenerator.azurewebsites.net.
 
 
-### [<-- Back to readme](../README.md)
+### [<-- Back to readme](../..)
 
 ### [<-- Back to Lab 00](00_EvidencesLab.md)
