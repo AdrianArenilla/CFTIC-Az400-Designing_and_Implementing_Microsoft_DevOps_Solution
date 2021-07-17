@@ -212,7 +212,7 @@ This will open another browser tab displaying the **Service connections** pane i
 
     > **Note**: In the Azure subscription dropdown list, you will see **Available Azure service connections** for those susbcriptions that have already been authorized to be connected to Azure. If you select the authorized subscription again (from **Available Azure subscriptions** list) and try to **Authorize**, the process will fail.
 
-1.  Finally, **Save** and click on **Create a new release** > **Create** (leave defaults) to start the deployment.
+1.  Finally, **Save** and click on **Create release** > **Create** (leave defaults) to start the deployment.
 
 1. Make sure your pipeline runs successfully and once finished, review the created resources by opening the resource group **az400m07l01-RG** in the Azure Portal . Open the **App Service** and browse it **(Overview -> Browse)**, to see the published website.
 
