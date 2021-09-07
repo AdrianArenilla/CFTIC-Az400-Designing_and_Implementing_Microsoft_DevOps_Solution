@@ -6,6 +6,8 @@ In this lab, you will implement integration scenarios between Azure DevOps servi
 ### [Go to lab instructions -->](AZ400_M18_Integration_between_Azure_DevOps_and_Teams.md)
 
 
+Project created successfully.
+![](Evidences/Image1.png)
 
 
 ### [<-- Back to readme](../README.md)

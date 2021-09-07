@@ -408,7 +408,7 @@ In this task, you will run another Ansible playbook, this time to configure the 
     PIP=$(az vm show --show-details --resource-group $RGNAME --name $VMNAME --query publicIps --output tsv)
     ```
 
-1.  Run the folowing to verify that the newly deployed Azure VM is currently not running any web service (where the `<IP_address>` placeholder represents the public IP address assigned to the network adapter of the Azure VM you provisioned in the previous task):
+1.  Run the following to verify that the newly deployed Azure VM is currently not running any web service (where the `<IP_address>` placeholder represents the public IP address assigned to the network adapter of the Azure VM you provisioned in the previous task):
 
     ```bash
     curl http://$PIP
